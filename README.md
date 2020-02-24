@@ -1,8 +1,11 @@
-# Arduino
-This repo contains my examples for arduino<br>
+# 7 Segment Shifter with Poti
+Count up or down with a potentiometer using shifter
 
-## Example 1
-[7 Segment Display Button Counter](https://github.com/mertaksoy/arduino/tree/7-segment-button-counter)
+**Circuit:**
+7 segment display to shift register
+![Circuit](https://raw.githubusercontent.com/mertaksoy/arduino/7-Segment-Shifter/circuit/7-Segment-to-shiftregister.jpg "Circuit")
 
-## Example 2
-[Dual 7 Segment Display Counter](https://github.com/mertaksoy/arduino/tree/dual-7-segment-counter)
+Shiftregister to arduino
+![Circuit](https://raw.githubusercontent.com/mertaksoy/arduino/7-Segment-Shifter/circuit/arduino-shiftregister.jpg "Circuit")
+
+*Please note that example was developed in 2010*
